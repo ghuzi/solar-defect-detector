@@ -2,7 +2,7 @@
 
 A YOLOv8 web app that classifies the condition of a solar panel photo as **clean**, **dust**, **bird_drops** or **cracked**, so maintenance teams know which panels need cleaning and which need repair or replacement.
 
-**Live demo:** _add your Streamlit link here after deploying_
+**Live demo:** https://solar-defect-detector.streamlit.app/
 
 ## Business problem
 Dust, bird droppings and cracks reduce the output of solar installations. Manual inspection is slow and expensive. This tool gives a fast first check from a single photo, with a suggested action for each finding.
